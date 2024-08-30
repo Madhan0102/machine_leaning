@@ -59,10 +59,9 @@ image_slider = """
 
 <div class="slider">
     <div class="slides">
-        <img src="https://editor.analyticsvidhya.com/uploads/30738medtec-futuristic-650.jpg" alt="Image 1">
-        <img src="https://www.animateddiabetespatient.com/en/content.ashx?file=adp01/slides/m1_slide_02.jpg" alt="Image 2">
-        <img src="https://via.placeholder.com/800x400?text=Image+3" alt="Image 3">
-        <img src="https://via.placeholder.com/800x400?text=Image+4" alt="Image 4">
+        <img src="https://slidemodel.com/wp-content/uploads/60607-01-diabetes-powerpoint-template-16x9-14.jpg" alt="Image 1">
+        <img src="https://slidemodel.com/wp-content/uploads/60607-01-diabetes-powerpoint-template-16x9-14.jpg" alt="Image 2">
+        <img src="https://slidemodel.com/wp-content/uploads/60607-01-diabetes-powerpoint-template-16x9-14.jpg" alt="Image 3">
     </div>
 </div>
 """
